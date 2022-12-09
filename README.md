@@ -1,3 +1,9 @@
-👋 Hi, I’m chamwithj from Sri lanka 🌱 I’m currently learning ...
+### Hi there 👋, my name is chamith
+#### Design and Development
+![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamwithj)](https://github.com/anuraghazra/github-readme-stats)
+👋 Hi, I’m chamwithj from Sri Lanka 🌱 I’m currently learning ...
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
